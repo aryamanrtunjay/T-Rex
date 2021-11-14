@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
-# Header 1
-## Header 2
-### Header 3
+# This is a github pages test
+## I am testing a game
+### This game is very old
 
 - Bulleted
 - List
